@@ -1,0 +1,1 @@
+Write one line, under 140 characters, that an AI agent could offer as its excuse for a test suite that is all green while the product does nothing — the funniest one-line excuse, judged head to head on humour and freshness.
